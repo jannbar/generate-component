@@ -1,6 +1,6 @@
 {
   "name": "@wh1zk1d/generate-component",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple CLI to generate new React components",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
