@@ -1,0 +1,24 @@
+{
+  "name": "@wh1zk1d/generate-component",
+  "version": "1.0.0",
+  "description": "A simple CLI to generate new React components",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "cli"
+  ],
+  "bin": {
+    "generate-component": "index.js"
+  },
+  "author": "Jannik Baranczyk (@wh1zk1d)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wh1zk1d/generate-component-cli.git"
+  }
+}
